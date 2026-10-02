@@ -44,4 +44,3 @@ Records are pending until reviewed by the venue. Submission references use the A
 The .openai/hosting.json manifest retains the Sites project identity and logical D1 binding. Sites owns provisioning and applies saved Drizzle migrations at publication. Do not commit environment secrets, .sites-runtime, .wrangler, node_modules, or dist. New Sites are owner-private until access is changed explicitly.
 
 The same source is published to https://github.com/kojostan/eventcentermgt. Future GitHub edits must also be synchronized and republished through Sites to update the hosted website.
-

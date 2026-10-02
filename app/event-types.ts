@@ -1,0 +1,1 @@
+export const eventTypes=['Wedding Receptions','Engagement Celebrations','Anniversary Parties','Birthday Celebrations','Christening Events','Funeral Receptions','Conferences','Retreats','Workshops','Seminars','Church Fellowships'];
